@@ -143,7 +143,9 @@ h2
 {
     box-shadow: inset 0 0 15px rgb(0,0,0,0.5);
 }
+
 ::-webkit-scrollbar
+
 {
     width: 5px;
 }
@@ -156,4 +158,6 @@ h2
 {
     left: 10px;
 }
+
+
 
